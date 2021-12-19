@@ -57,7 +57,7 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
   },
   bio: {
-    fontSize: 17,
+    fontSize: 18,
     color: 'white',
     lineHeight: 25,
   },
